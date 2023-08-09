@@ -11,7 +11,7 @@ module.exports = async (message) => {
     const embed = new EmbedBuilder()
     .setColor(`#2f3136`)
     .setAuthor({ name: message.member.displayName, iconURL: message.author.avatarURL({ dynamic: true, size: 2048 }) })
-    .setFooter({ text: config.footer ? config.footer : `Beş Was Here`, iconURL: message.author.avatarURL({ dynamic: true, size: 2048 }) })
+    .setFooter({ text: config.footer ? config.footer : `Wasley Was Here`, iconURL: message.author.avatarURL({ dynamic: true, size: 2048 }) })
 
     if (cmd) {
         cmd.execute(client, message, args, embed);
