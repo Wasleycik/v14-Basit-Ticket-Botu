@@ -12,7 +12,7 @@ module.exports = async (oldMessage,newMessage) => {
     const embed = new EmbedBuilder()
     .setColor(`#2f3136`)
     .setAuthor({ name: newMessage.member.displayName, iconURL: newMessage.author.avatarURL({ dynamic: true, size: 2048 }) })
-    .setFooter({ text: config.footer ? config.footer : `Beş Was Here`, iconURL: newMessage.author.avatarURL({ dynamic: true, size: 2048 }) })
+    .setFooter({ text: config.footer ? config.footer : `Wasley Was Here`, iconURL: newMessage.author.avatarURL({ dynamic: true, size: 2048 }) })
     if (cmd) {
         cmd.execute(client, newMessage, args, embed);
     }
