@@ -5,7 +5,9 @@ const config = require("../../../config")
 module.exports = {
     name: "setup",
     aliases: ["setup"],
-    execute: async (client, message, args, embed) => {
+    usage:"setup",
+    category:"sahip",
+execute: async (client, message, args, embed) => {
         if(!message.member.permissions.has(PermissionFlagsBits.Administrator))return message.reply({ embeds: [embed.setDescription(`> **Komutu Kullanmak İçin Yetkin Bulunmamakta!**`)] }).sil(5);
         let secim = args[0];
         let ticketyt = await db.get("ticket-yetkilisi");
@@ -58,3 +60,4 @@ __**Setup Sistemi Kullanım**__
         } else{ return message.reply({ content: `> **❌ Hatalı Kullanım!**\n> **\`Örnek;\` ${config.prefix}setup <ID> @rol/#kanal/tag**` }) }
     }
 }
+
