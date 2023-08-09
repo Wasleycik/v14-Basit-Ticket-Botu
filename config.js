@@ -1,13 +1,22 @@
 module.exports = {
-token: "OTMwMTkzMDk3MjU2NzU5MzQ3.GtUK7b.DnH9dKa9_RedIcDsXbNoO_EAfsLyqnbjAWZhy0", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
-guildID:"1015392710489817149", //Kullanıcağın Sunucunun ID'si
+token: "", //Bot Tokeniniz => Bot Oluşturduktan Sonra Intentsleri Açmayı Unutma!
+guildID:"901817874220453899", //Kullanıcağın Sunucunun ID'si
 botDurum:"Wasley Was Here", //Botun Durumu
 footer:"Wasley", //Embedların Footer Yazısı
-botOwners:["928259219038302258"], //Bot Sahibinin ID'si
+botOwners:["598974473374400512"], //Bot Sahibinin ID'si
 prefix:".", //Botun Prefix'i 
 
-boosterrol:"1038742793759240253",
-ticketyetkili:"1020961180484915252",
-ticketlog:"1015392711207039073",
+replys:{
+//Ticket Oluştur Mesajı Kısmı
+TicketEmbedColor:"Blue",
+TicketEmbedAuthor:"Ticket System",
+TicketEmbedYazı:"Ticket Talebi Oluşturmak İçin Lütfen Aşağıdaki Butonu Kullanınız.",
+TicketButtonYazi:"Ticket Oluştur!",
+TicketButonRenk:"1",
+//Ticket Sistemindeki Sebepler işte sebep yani
+TicketSebep1:"Sunucu Destek",
+TicketSebep2:"Bot Destek",
+TicketSebep3:"Reklam İhbarı Ve Desteği",
 
+}
 }
