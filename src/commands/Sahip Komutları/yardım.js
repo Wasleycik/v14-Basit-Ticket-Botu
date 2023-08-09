@@ -9,9 +9,12 @@ module.exports = {
     execute: async (client, message, args, embed) => {
     if(!message.member.permissions.has(PermissionFlagsBits.Administrator))return message.reply({ embeds: [embed.setDescription(`> **Komutu Kullanmak İçin Yetkin Bulunmamakta!**`)] }).sil(5);
 
-    let commandsFive = client.commands.filter(bes => bes.usage).map((fivesobes) => `> \`${config.prefix}${fivesobes.usage}\``).join("\n");
+    let Komutlar = client.commands.filter(km => km.usage).map((commands) => `\`•\` ${config.prefix}${commands.usage}`).join("\n");
 
-     message.reply({ embeds: [embed.setDescription(`${commandsFive}`).setThumbnail(message.guild.iconURL({dynamic:true})).setTitle(`Yardım Menüsü`).setURL(`https://linktr.ee/beykant`)] });
+     message.reply({ embeds: [embed.setDescription(`
+      **Botun Tüm Komutları Aşağıda Listelenmektedir.**
+     ${Komutlar}
+     `)] });
 
     }
 }
