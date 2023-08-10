@@ -18,10 +18,10 @@
 - [x] Buton Ve Select Menülü
 
 ### Kurulum
-Setup Üzerinden Botun Ticket Yetkilisini Ve Log Kanalını Kurmanız Yeterli Olacaktır
+`-` Setup Üzerinden Botun Ticket Yetkilisini Ve Log Kanalını Kurmanız Yeterli Olacaktır
 
 ## Bota Dair Bazı Görseller
-<details>
+<details><summary>Görmek İçin Tıkla</summary>
 
 ### Ticket Kısmı
 
