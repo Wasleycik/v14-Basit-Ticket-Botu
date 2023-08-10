@@ -1,4 +1,4 @@
-# v14-Basit-Ticket-Main
+<h3 align="center">V14 TİCKET BOTU</h3>
 
 Botta Hatalar Olabilir. Destek Sunucumuza Gelip Bildirebilirsiniz.
 
