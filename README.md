@@ -1,5 +1,9 @@
 # v14-Basit-Ticket-Main
 
+Botta Hatalar Olabilir. Destek Sunucumuza Gelip Bildirebilirsiniz.
+Botu KendiBotunuzlar Birleştirme Vb Bir İşlem Yapmak İstiyorsanız Hangi Kısımları Alacağınız Belirtilmiştir.
+Bot Karmaşık Olabilir Direkt Yapıp Paylaştım Uğraşmadım Basit Bişey Zaten İdare Edin.
+
 * Destek Sunucumuz [Katılmak İçin Tıkla!](https://discord.gg/HehFQ7Qcub)
 
 # Kurulum
