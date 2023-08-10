@@ -20,9 +20,8 @@
 ### Kurulum
 Setup Üzerinden Botun Ticket Yetkilisini Ve Log Kanalını Kurmanız Yeterli Olacaktır
 
-
-# Bota Dair Bazı Görseller
-
+### Bota Dair Bazı Görseller
+<details>
 ### Ticket Kısmı
 
 ![image](https://github.com/Wasleycik/v14-Basit-Ticket-Botu/assets/104096743/6fa49162-957f-4eae-bf85-bccc8258622c)
@@ -54,6 +53,7 @@ Setup Üzerinden Botun Ticket Yetkilisini Ve Log Kanalını Kurmanız Yeterli Ol
 ### Kanaldaki Mesajları Html Dosyası Olarak Kaydeder
 
 ![image](https://github.com/Wasleycik/v14-Basit-Ticket-Botu/assets/104096743/e38ba156-20f8-409f-9e8e-dab245a221c0)
+</details>
 
 
 
