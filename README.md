@@ -8,6 +8,11 @@ Bot Karmaşık Olabilir Direkt Yapıp Paylaştım Uğraşmadım Basit Bişey Zat
 
 * Destek Sunucumuz [Katılmak İçin Tıkla!](https://discord.gg/HehFQ7Qcub)
 
+# Özellikler
+- [x] Ayarlamalı.
+- [x] Modal Sistemli
+- [x] Buton Ve Select Menülü
+
 # Kurulum
 Setup Üzerinden Botun Ticket Yetkilisini Ve Log Kanalını Kurmanız Yeterli Olacaktır
 
