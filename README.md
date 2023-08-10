@@ -2,20 +2,22 @@
 
 ---
 
-Botta Hatalar Olabilir. Destek Sunucumuza Gelip Bildirebilirsiniz.
+# BOT HAKKINDA
 
-Botu KendiBotunuzlar Birleştirme Vb Bir İşlem Yapmak İstiyorsanız Hangi Kısımları Alacağınız Belirtilmiştir.
+* Botta Hatalar Olabilir. Destek Sunucumuza Gelip Bildirebilirsiniz.
 
-Bot Karmaşık Olabilir Direkt Yapıp Paylaştım Uğraşmadım Basit Bişey Zaten İdare Edin.
+* Botu KendiBotunuzlar Birleştirme Vb Bir İşlem Yapmak İstiyorsanız Hangi Kısımları Alacağınız Belirtilmiştir.
+
+* Bot Karmaşık Olabilir Direkt Yapıp Paylaştım Uğraşmadım Basit Bişey Zaten İdare Edin.
 
 * Destek Sunucumuz [Katılmak İçin Tıkla!](https://discord.gg/HehFQ7Qcub)
 
-# Özellikler
+### Özellikler
 - [x] Ayarlamalı.
 - [x] Modal Sistemli
 - [x] Buton Ve Select Menülü
 
-# Kurulum
+### Kurulum
 Setup Üzerinden Botun Ticket Yetkilisini Ve Log Kanalını Kurmanız Yeterli Olacaktır
 
 
