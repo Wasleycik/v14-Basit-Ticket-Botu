@@ -13,7 +13,7 @@ TicketEmbedAuthor:"Ticket System",
 TicketEmbedYazı:"Ticket Talebi Oluşturmak İçin Lütfen Aşağıdaki Butonu Kullanınız.",
 TicketButtonYazi:"Ticket Oluştur!",
 TicketButonRenk:"1",
-//Ticket Sistemindeki Sebepler işte sebep yani
+//Ticket Oluştur Mesajı Kısmı
 TicketSebep1:"Sunucu Destek",
 TicketSebep2:"Bot Destek",
 TicketSebep3:"Reklam İhbarı Ve Desteği",
