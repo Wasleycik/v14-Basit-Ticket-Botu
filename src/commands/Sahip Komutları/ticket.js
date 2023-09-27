@@ -31,3 +31,9 @@ message.channel.send({embeds: [ticketembed],components: [ticketrow]})
 
     },
 }
+
+/*
+client.on('interactionCreate', async interaction => {
+
+  })
+  */
