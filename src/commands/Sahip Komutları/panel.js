@@ -60,4 +60,3 @@ __**Setup Sistemi Kullanım**__
         } else{ return message.reply({ content: `> **❌ Hatalı Kullanım!**\n> **\`Örnek;\` ${config.prefix}setup <ID> @rol/#kanal/tag**` }) }
     }
 }
-
